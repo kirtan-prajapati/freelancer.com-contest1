@@ -14,6 +14,6 @@ This project involves syncing JSON files in real-time using PHP without any fram
 
 ### Setup:
 1. Clone the repository:  
-   `git clone https://github.com/your-username/freelancer-contest1.git`
+   `git clone https://github.com/kirtan-prajapati/real-time-json-sync.git`
 2. Set up the web server to point to the project directory.
 3. Make sure to place the `data.json` file in the appropriate location.
