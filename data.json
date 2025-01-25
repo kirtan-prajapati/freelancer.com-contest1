@@ -1,0 +1,10 @@
+{
+    "logs": [
+        {"id": 1, "message": "Log entry 1", "timestamp": "2025-01-01T12:00:00Z"},
+        {"id": 2, "message": "Log entry 2", "timestamp": "2025-01-01T12:05:00Z"}
+    ],
+    "statistics": {
+        "activeUsers": 41,
+        "totalVisits": 1247
+    }
+}
