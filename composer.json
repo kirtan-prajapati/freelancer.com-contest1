@@ -1,0 +1,22 @@
+{
+    "name": "kirtan-prajapati/real-time-json-sync",
+    "description": "This project involves syncing JSON files in real-time using PHP without any frameworks like Laravel or CodeIgniter.",
+    "require": {
+        "php": ">=7.4"
+    },
+    "scripts": {
+        "start": "php -S 0.0.0.0:10000"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
+    },
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/kirtan-prajapati/real-time-json-sync.git"
+        }
+    ]
+}
